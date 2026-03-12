@@ -19,7 +19,6 @@ Writes JSON to stdout:
 import sys
 import json
 import re
-import os
 
 import matplotlib
 matplotlib.use("Agg")
